@@ -1,0 +1,24 @@
+{
+  "name": "ugchooks",
+  "version": "1.0.0",
+  "description": "Turn a product link into TikTok and Reels posts with UGCHooks, then read back the hooks, slide text, captions and hashtags. Creates batches and writes unlocked parts; never spends credits or posts.",
+  "author": {
+    "name": "UGCHooks",
+    "url": "https://ugchooks.app"
+  },
+  "homepage": "https://ugchooks.app/integrations/claude/",
+  "repository": "https://github.com/saeedmsdi-ugchooks/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "ugchooks",
+    "ugc",
+    "tiktok",
+    "instagram-reels",
+    "social-media-content"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://ugchooks.app/privacy/"
+}

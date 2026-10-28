@@ -1,0 +1,15 @@
+{
+  "name": "ugchooks",
+  "owner": {
+    "name": "UGCHooks",
+    "email": "hello@ugchooks.app"
+  },
+  "description": "UGCHooks for Claude: TikTok and Reels posts from a product link.",
+  "plugins": [
+    {
+      "name": "ugchooks",
+      "source": "./",
+      "description": "Create UGCHooks post batches from product links and read hooks, captions and hashtags."
+    }
+  ]
+}

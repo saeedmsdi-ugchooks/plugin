@@ -1,0 +1,20 @@
+{
+  "name": "ugchooks",
+  "version": "1.0.0",
+  "description": "Turn a product link into TikTok and Reels posts with UGCHooks, then read back the hooks, slide text, captions and hashtags.",
+  "author": {
+    "name": "UGCHooks",
+    "url": "https://ugchooks.app"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "UGCHooks",
+    "shortDescription": "TikTok and Reels posts from a product link",
+    "longDescription": "Create UGCHooks post batches from a product, website or app store link and read the brief, hooks, slideshow text, reaction-hook beats, meme captions, captions and hashtags. Write the remaining parts of batches you unlocked in the app. The connection never buys credits, unlocks batches or posts; publish through UGC API.",
+    "developerName": "UGCHooks",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Make a UGCHooks batch for my product link and show me the five strongest hooks."
+  }
+}

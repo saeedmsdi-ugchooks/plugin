@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ugchooks": {
+      "type": "http",
+      "url": "https://ugchooks.app/mcp"
+    }
+  }
+}
